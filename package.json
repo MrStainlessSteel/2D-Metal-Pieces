@@ -1,0 +1,14 @@
+{
+  "name": "@mrstainlesssteel/2d-metal-pieces",
+  "version": "1.0.0",
+  "description": "Personalised metal pieces for your home, garden, garage and the people you love.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "MrStainlessSteel",
+  "license": "BSD-3-Clause"
+}
